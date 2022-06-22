@@ -3,10 +3,10 @@ var cnv, cnvWidth, cnvHieght;
 const strokeSize = 4;
 let spacing = 2;
 
-let iterations = 40;
+let iterations = 20;
 
-let startX = 85;
-let startY = 85;
+let startX = 145;
+let startY = 145;
 
 let pointBuffer = [];
 
